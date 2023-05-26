@@ -43,10 +43,11 @@ export const projects = [
     title: "Metanation",
     description:
       "A next js article sharing website with the latest article and news about metaverse, crypto, NFT's etc",
+    source: "https://metanation.uk/",
+    visit: "https://metanation.uk/",
     image: "/images/metanation.png",
     tags: ["Next.js", "Node.js", "Express.js", "MongoDB"],
-    source: "https://igotplans.vercel.app/home",
-    visit: "https://igotplans.vercel.app/home",
+
     id: 3,
   },
   {
@@ -54,8 +55,8 @@ export const projects = [
     description: "A platform to buy yoga, dance etc events tickets",
     image: "/images/igp.png",
     tags: ["React.js", "Firebase", "Redux", "Redux Toolkit"],
-    source: "https://metanation.uk/",
-    visit: "https://metanation.uk/",
+    source: "https://igotplans.vercel.app/home",
+    visit: "https://igotplans.vercel.app/home",
     id: 1,
   },
 ];
