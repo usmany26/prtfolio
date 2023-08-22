@@ -1,7 +1,8 @@
 export const projects = [
   {
     title: "IGotPlans",
-    description: "A platform to buy yoga, dance etc events tickets",
+    description:
+      "iGotPlans aims to leave inefficient time consuming admin behind. By automating and digitising ticketing, financing and analytics, we seek to make event organizers lives easier. We aim to provide a site where people can access all the events they love in one place and hope to increase visibility of events which might have otherwise gone unseen. ",
     image: "/images/igp.png",
     tags: ["React.js", "Firebase", "Redux", "Redux Toolkit"],
     source: "https://web.igotplans.co.uk/",
@@ -29,16 +30,6 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Utube",
-    description:
-      "Utube ia a lightweight version of youtube. Buy using RapisApi youtube 3 apis to get youtube videos, channels atc.",
-    image: "/images/utube.png",
-    tags: ["React.js", "Material Ui"],
-    visit: "https://github.com/usmany26/utube",
-    source: "https://utube-git-main-usmany26.vercel.app/",
-    id: 3,
-  },
-  {
     title: "Sushiman",
     description:
       "A medern design Sushi food restaurant app. Showcasing the food with animations",
@@ -54,11 +45,20 @@ export const projects = [
       "A next js article sharing website with the latest article and news about metaverse, crypto, NFT's etc",
     image: "/images/metanation.png",
     tags: ["Next.js", "Node.js", "Express.js", "MongoDB"],
-    source: "https://igotplans.vercel.app/home",
-    visit: "https://igotplans.vercel.app/home",
+    source: "https://metanation.uk/",
+    visit: "https://metanation.uk/",
     id: 6,
   },
-
+  {
+    title: "Utube",
+    description:
+      "Utube ia a lightweight version of youtube. Buy using RapisApi youtube 3 apis to get youtube videos, channels atc.",
+    image: "/images/utube.png",
+    tags: ["React.js", "Material Ui"],
+    visit: "https://github.com/usmany26/utube",
+    source: "https://utube-git-main-usmany26.vercel.app/",
+    id: 3,
+  },
   {
     title: "Dice Game",
     description:
